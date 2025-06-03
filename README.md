@@ -121,3 +121,5 @@ For more detailed information about each component, please refer to their respec
 
 *   [Backend README](./backend/README.md)
 *   [Frontend README](./frontend/README.md)
+## LICENSE
+This project is under [MIT LICENSE](./LICENSE.md)
